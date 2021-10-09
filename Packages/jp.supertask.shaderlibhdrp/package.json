@@ -1,0 +1,15 @@
+{
+  "author": {
+    "name": "Tasuku Takahashi"
+  },
+  "description": "Shader Library for High Definition Render Pipeline ",
+  "displayName": "Shader Library HDRP",
+  "keywords": [ "unity" ],
+  "license": "MIT",
+  "name": "jp.supertask.shaderlibhdrp",
+  "repository": "github:supertask/ShaderLibHDRP",
+  "unity": "2021.2",
+  "unityRelease": "0b11",
+  "version": "1.0.0"
+}
+
